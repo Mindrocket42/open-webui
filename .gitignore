@@ -311,4 +311,6 @@ cypress/screenshots
 # local secrets
 .webui_secret_key
 .env*
+*.Zone.Identifierpip-freeze.txt
+.webui_secret_key
 *.Zone.Identifier
